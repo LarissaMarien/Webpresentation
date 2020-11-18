@@ -1,0 +1,68 @@
+* {
+  font-family: "Oswald";
+  font-size: 60px;
+  color: white;
+}
+
+h2 {
+  margin-bottom: 30px !important;
+}
+
+p, li {
+  font-size: 30px !important;
+  font-weight: lighter !important;
+  margin-top: 10px !important;
+}
+
+li {
+  text-align: left !important;
+}
+
+h3 {
+  text-align: left !important;
+}
+
+h4 {
+  font-size: 70px !important;
+  color: black;
+}
+
+.mefoto {
+  position: relative;
+}
+
+.fotome {
+  font-size: 30px !important;
+  position: absolute;
+  right: 0px;
+  top: 550px;
+}
+
+.black {
+  color: black !important;
+}
+
+.movietitle {
+  font-family: "Luckiest Guy" !important;
+  color: black !important;
+}
+
+.movienumber {
+  font-family: "Luckiest Guy" !important;
+}
+
+.quote {
+  font-family: "Amatic SC" !important;
+  color: black;
+  font-weight: bold !important;
+}
+
+.quotetext {
+  font-family: "Amatic SC" !important;
+  color: black;
+}
+
+span {
+  color: black;
+  font-size: 30px !important;
+}
